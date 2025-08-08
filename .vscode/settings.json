@@ -1,19 +1,8 @@
 {
   "files.associations": {
-    "**/easy/*.cpp": "plaintext",
-    "**/easy/*.c": "plaintext",
-    "**/easy/*.py": "plaintext",
-    "**/easy/*.java": "plaintext",
-
-    "**/medium/*.cpp": "plaintext",
-    "**/medium/*.c": "plaintext",
-    "**/medium/*.py": "plaintext",
-    "**/medium/*.java": "plaintext",
-
-    "**/hard/*.cpp": "plaintext",
-    "**/hard/*.c": "plaintext",
-    "**/hard/*.py": "plaintext",
-    "**/hard/*.java": "plaintext"
+    "**/easy/*/**": "plaintext",
+    "**/medium/*/**": "plaintext",
+    "**/hard/*/**": "plaintext",
   },
   "C_Cpp.errorSquiggles": "Disabled",
   "C_Cpp.intelliSenseEngine": "Disabled",
